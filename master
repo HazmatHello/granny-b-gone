@@ -47,3 +47,4 @@ mask.apple-dns.net
 mask-t.apple-dns.net
 mask-api.fe.apple-dns.net
 odoh.cloudflare-dns.com
+mask.icloud.com/
