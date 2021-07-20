@@ -50,10 +50,13 @@ https://rantingly.com/
 bients.com/
 https://bostontribune.org/
 bostontribune.org
+https://sanevax.org/
+sanevax.org
 
 ###################
 ### made to block trackers / anything else I want
 ###################
+
 mask.apple-dns.net
 mask-t.apple-dns.net
 mask-api.fe.apple-dns.net
